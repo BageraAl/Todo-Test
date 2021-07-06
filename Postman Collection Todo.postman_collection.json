@@ -1,0 +1,123 @@
+{
+	"info": {
+		"_postman_id": "c96a30a9-c40a-475e-9272-e0263ec2ca83",
+		"name": "Postman Collection Todo",
+		"schema": "https://schema.getpostman.com/json/collection/v2.1.0/collection.json"
+	},
+	"item": [
+		{
+			"name": "localhost:3000",
+			"request": {
+				"method": "GET",
+				"header": [
+					{
+						"key": "UserId",
+						"value": "60e49019e2a80824c8acc17c",
+						"type": "text"
+					}
+				],
+				"url": {
+					"raw": "localhost:3000",
+					"host": [
+						"localhost"
+					],
+					"port": "3000"
+				}
+			},
+			"response": []
+		},
+		{
+			"name": "localhost:3000/60e4a1ee423b502174bafe60",
+			"request": {
+				"method": "GET",
+				"header": [
+					{
+						"key": "UserId",
+						"value": "60e49019e2a80824c8acc17c",
+						"type": "text"
+					}
+				],
+				"url": {
+					"raw": "localhost:3000/60e4a1ee423b502174bafe60",
+					"host": [
+						"localhost"
+					],
+					"port": "3000",
+					"path": [
+						"60e4a1ee423b502174bafe60"
+					]
+				}
+			},
+			"response": []
+		},
+		{
+			"name": "localhost:3000/60e4a1ee423b502174bafe60",
+			"request": {
+				"method": "PUT",
+				"header": [
+					{
+						"key": "UserId",
+						"value": "60e49019e2a80824c8acc17c",
+						"type": "text"
+					}
+				],
+				"url": {
+					"raw": "localhost:3000/60e4a1ee423b502174bafe60",
+					"host": [
+						"localhost"
+					],
+					"port": "3000",
+					"path": [
+						"60e4a1ee423b502174bafe60"
+					]
+				}
+			},
+			"response": []
+		},
+		{
+			"name": "localhost:3000/60e4a1ee423b502174bafe60",
+			"request": {
+				"method": "DELETE",
+				"header": [
+					{
+						"key": "UserId",
+						"value": "60e49019e2a80824c8acc17c",
+						"type": "text"
+					}
+				],
+				"url": {
+					"raw": "localhost:3000/60e4a1ee423b502174bafe60",
+					"host": [
+						"localhost"
+					],
+					"port": "3000",
+					"path": [
+						"60e4a1ee423b502174bafe60"
+					]
+				}
+			},
+			"response": []
+		},
+		{
+			"name": "localhost:3000",
+			"request": {
+				"method": "POST",
+				"header": [
+					{
+						"key": "UserId",
+						"value": "60e49019e2a80824c8acc17c",
+						"type": "text"
+					}
+				],
+				"url": {
+					"raw": "localhost:3000",
+					"host": [
+						"localhost"
+					],
+					"port": "3000"
+				}
+			},
+			"response": []
+		}
+	]
+}
