@@ -1,5 +1,5 @@
 const mongoose = require('mongoose');
-const db = "mongodb+srv://alaaHboubati:12345alaa@cluster0.ptll8.mongodb.net/test?retryWrites=true&w=majority"
+const db = "string_token_for_your_database";
 
 
 
